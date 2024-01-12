@@ -1,0 +1,4 @@
+-Install using pip
+pandas
+numpy
+matplotlib
